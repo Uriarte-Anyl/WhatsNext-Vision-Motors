@@ -36,7 +36,7 @@ Several improvements are planned for future versions of the system, including:
 ## Demo Video
 
 Demo link:
-[https://drive.google.com/file/d/192iuceG4xhzpvfdKMbkz1V-5VfNXdKSR/view?usp=drive_link](https://drive.google.com/file/d/192iuceG4xhzpvfdKMbkz1V-5VfNXdKSR/view?usp=drive_link)
+[https://drive.google.com/file/d/1MUA_GKBh2vs17IPs4b502jRHixrEPvuj/view?usp=drive_link](https://drive.google.com/file/d/1MUA_GKBh2vs17IPs4b502jRHixrEPvuj/view?usp=drive_link)
 
 ---
 
